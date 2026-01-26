@@ -1575,17 +1575,17 @@
                                 "items": [
                                     {
                                         "quote": "WaiYan's portfolio inspired me to level up my skills. The code quality and DevOps automation are world-class.",
-                                        "name": "Yu Par",
+                                        "name": "John Doe",
                                         "role": "Frontend Developer"
                                     },
                                     {
                                         "quote": "The deployment pipelines WaiYan built saved us hours every week. Communication and delivery were flawless.",
-                                        "name": "ZarNi Hlaing",
+                                        "name": "Maria Garcia",
                                         "role": "Full Stack Developer"
                                     },
                                     {
                                         "quote": "From onboarding to launch, WaiYan's expertise in both frontend and DevOps made our project a success.",
-                                        "name": "Min Thein",
+                                        "name": "Ahmed Hassan",
                                         "role": "Backend Engineer"
                                     }
                                 ]
