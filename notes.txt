@@ -1088,7 +1088,7 @@
                         <div class="space-y-2">
                             <h3
                                 class="text-2xl font-bold text-gray-900 bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
-                                AWS Cloud & DevOps</h3>
+                                AWS Cloud </h3>
                             <p class="text-blue-600 font-semibold tracking-wide">Cloud Infrastructure Engineer</p>
                             <p class="text-gray-700 text-sm font-medium leading-relaxed">
                                 Experienced in AWS services including EC2, Elastic Beanstalk, Lambda, ECS, S3, Route53
@@ -1556,7 +1556,7 @@
                                         "technologies": ["TypeScript", "React", "Drag & Drop"]
                                     },
                                     {
-                                        "title": "AWS Cloud & DevOps",
+                                        "title": "AWS Cloud ",
                                         "tag": "Cloud Infrastructure Engineer",
                                         "description": "Experienced in AWS services including EC2, Elastic Beanstalk, Lambda, ECS, S3, Route53 and Docker containerization. Built scalable cloud architectures and automated deployments using CI/CD pipelines.",
                                         "technologies": ["AWS", "AI"]
@@ -1621,7 +1621,7 @@
                                     "JavaScript / TypeScript",
                                     "PHP | Laravel",
                                     "React",
-                                    "Cloud & DevOps"
+                                    "Cloud "
                                 ],
                                 "copyright": "2025 | WaiYan's Portfolio. All rights reserved. Made with ❤️ for the developer community."
                             }
@@ -1747,7 +1747,7 @@
                                         "technologies": ["TypeScript", "React", "ドラッグ&ドロップ"]
                                     },
                                     {
-                                        "title": "AWS Cloud & DevOps",
+                                        "title": "AWS Cloud ",
                                         "tag": "クラウドインフラストラクチャエンジニア",
                                         "description": "EC2、Elastic Beanstalk、Lambda、ECS、S3、Route53およびDockerコンテナ化を含むAWSサービスの経験があります。CI/CDパイプラインを使用してスケーラブルなクラウドアーキテクチャを構築し、デプロイメントを自動化しました。",
                                         "technologies": ["AWS", "AI"]
@@ -1812,7 +1812,7 @@
                                     "JavaScript / TypeScript",
                                     "PHP | Laravel",
                                     "React",
-                                    "Cloud & DevOps"
+                                    "Cloud"
                                 ],
                                 "copyright": "2025 | WaiYan's Portfolio. All rights reserved. ❤️で開発者コミュニティのために作られました。"
                             }
